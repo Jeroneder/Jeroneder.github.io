@@ -1,4 +1,4 @@
-# Jerínimo Neder's Webpage
+# Jerónimo Neder's Webpage
 
 ## Description
 This repository contains the source code for my personal website.
