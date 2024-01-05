@@ -292,22 +292,22 @@ img {
   z-index: var(--z-back);
 }
 .skills__html {
-  width: 30%;
+  
 }
 .skills__css {
-  width: 15%;
+  
 }
 .skills__js {
-  width: 15%;
+  
 }
 .skills__Py {
-  width: 75%;
+
 }
 .skills__Git {
-  width: 55%;  
+    
 }
 .skills__MS {
-  width: 90%;  
+   
 }
 .skills__img {
   border-radius: 0.8rem;
