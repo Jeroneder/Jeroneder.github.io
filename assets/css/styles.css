@@ -291,23 +291,17 @@ img {
   border-radius: 0.5rem;
   z-index: var(--z-back);
 }
-.skills__html {
-  
+.skills__html { 
 }
-.skills__css {
-  
+.skills__css { 
 }
 .skills__js {
-  
 }
 .skills__Py {
-
 }
 .skills__Git {
-    
 }
 .skills__MS {
-   
 }
 .skills__img {
   border-radius: 0.8rem;
