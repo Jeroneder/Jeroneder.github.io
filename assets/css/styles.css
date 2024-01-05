@@ -291,6 +291,7 @@ img {
   border-radius: 0.5rem;
   z-index: var(--z-back);
 }
+/* =====
 .skills__html { 
 }
 .skills__css { 
@@ -302,7 +303,7 @@ img {
 .skills__Git {
 }
 .skills__MS {
-}
+}=====*/
 .skills__img {
   border-radius: 0.8rem;
   width: 550px;
